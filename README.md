@@ -1,4 +1,5 @@
 # nazmul-demo
-This is my first repository.
+<i>
+This is my first repository.</i>
 <br>
-Author - Md. Nazmul Hasan
+<b>Author - Md. Nazmul Hasan</b>
